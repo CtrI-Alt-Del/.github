@@ -1,4 +1,4 @@
-# CTRL ALT DEL Team 👥 
+# Ctrl Alt Del Team 👥 
 #### Team formed to carry out the Integrative Learning Projects (APIs) at FATEC Profº Jessen Vidal (São José dos Campos, São Paulo).
 
 |    Semester    |    Project Name      |                           Client                         |                           Description                         |  Source  |
