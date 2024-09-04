@@ -4,7 +4,7 @@
 |    Semester    |    Project Name      |                           Client                         |                           Description                         |  Source  |
 | :----------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------:|
 |  1st SEM | Smart-Farming | Internal client | Smart-Farming is a website that aims to facilitate the work of monitoring the smart greenhouse maintained within FATEC in São José dos Campos. | [Smart-farming](https://github.com/CtrI-Alt-Del/smart-farming)
-|  2nd SEM | Stocker | Internal client | Stocker is a website that is a efficient inventory management system for organizational optimization  | [Stock Control](https://github.com/CtrI-Alt-Del)
+|  2nd SEM | Stocker | Internal client | Stocker is a website that is a efficient inventory management system for organizational optimization  | [Stocker](https://github.com/CtrI-Alt-Del)
 
 # Members
 |      Name      |                           Social Media                             |                Smart-Farming              |               Stocker             |
