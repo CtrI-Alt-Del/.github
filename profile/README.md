@@ -4,10 +4,10 @@
 |    Semester    |    Project Name      |                           Client                         |                           Description                         |  Source  |
 | :----------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------:|
 |  1st SEM | Smart-Farming | Internal client | Smart-Farming is a website that aims to facilitate the work of monitoring the smart greenhouse maintained within FATEC in São José dos Campos. | [Smart-farming](https://github.com/CtrI-Alt-Del/smart-farming)
-|  2nd SEM | Stock Control | Internal client | Stock Control is a website that is a efficient inventory management system for organizational optimization  | [Stock Control](https://github.com/CtrI-Alt-Del)
+|  2nd SEM | Stocker | Internal client | Stocker is a website that is a efficient inventory management system for organizational optimization  | [Stock Control](https://github.com/CtrI-Alt-Del)
 
 # Members
-|      Name      |                           Social Media                             |                Smart-Farming              |               Stock Control             |
+|      Name      |                           Social Media                             |                Smart-Farming              |               Stocker             |
 |:---------------:| :----------------------------------------------------------: | :---------------------------------------------: |:----------------------------:|
 | Kauan Fonseca do Vale  |<a href="https://github.com/kaufon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/kauan-fonseca-b62188300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | Scrum Master | Scrum Team |
 |  João Pedro Carvalho dos Santos  | <a href="https://github.com/JohnPetros"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-carvalho-dos-santos-42a0ab222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | Product Owner | Product Owner |
