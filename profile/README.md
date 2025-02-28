@@ -5,7 +5,7 @@
 | :----------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------:|
 |  1st SEM | Smart-Farming | Internal client | Smart-Farming is a website that aims to facilitate the work of monitoring the smart greenhouse maintained within FATEC in São José dos Campos. | [Smart-farming](https://github.com/CtrI-Alt-Del/smart-farming)
 |  2nd SEM | Stocker | Internal client | Stocker is a website that is a efficient inventory management system for organizational optimization.  | [Stocker](https://github.com/CtrI-Alt-Del/stocker)
-|  3rd SEM | Chronos |  [Necto Systems](https://pitsjc.org.br/empresas/necto-systems/) | Chronos is a  web-based system for efficient time tracking and workforce management, enhancing accuracy and organizational productivity.  | [Chronos](https://github.com/CtrI-Alt-Del/)
+|  3rd SEM | Chronos |  [Necto Systems](https://pitsjc.org.br/empresas/necto-systems/) | Chronos is a  web-based system for efficient time tracking and workforce management, enhancing accuracy and organizational productivity.  | [Chronos](https://github.com/CtrI-Alt-Del/chronos)
 
 # Members
 
