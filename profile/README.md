@@ -8,8 +8,7 @@
 |  3rd SEM | Chronos |  [Necto Systems](https://pitsjc.org.br/empresas/necto-systems/) | Chronos is a  web-based system for efficient time tracking and workforce management, enhancing accuracy and organizational productivity.  | [Chronos](https://github.com/CtrI-Alt-Del/chronos)
 |  4th SEM | Gaia |  [Tecsus](https://tecsus.com.br/) | Gaia is a project developing lowcost weather stations to collect environmental data for processing and display on a web portal.  | [Gaia](https://github.com/CtrI-Alt-Del/gaia)
 |  5th SEM | Animus |  [Xertica](https://www.xertica.ai/) | Animus is a cloud-integrated mobile app that uses machine learning to analyze legal petitions and identify relevant precedents, optimizing research for legal professionals.  | [Animus](https://github.com/CtrI-Alt-Del/animus)
-|  6th SEM | Shifu |  [GSW](https://www.gsw.com.br) | Shifu is an AI-powered learning platform that creates personalized learning paths for skill development.
-It provides guided practice, feedback, and progress tracking to support continuous learning. | [Shifu](https://github.com/CtrI-Alt-Del/shifu)
+|  6th SEM | Shifu |  [GSW](https://www.gsw.com.br) | Shifu is an AI-powered learning platform that creates personalized learning paths, provides guided practice and feedback, and tracks skill progress over time. | [Shifu](https://github.com/CtrI-Alt-Del/shifu)
 
 # Members
 
